@@ -14,7 +14,7 @@ and wanted to do something similar but in my own way.
 
 + **alsa-utils**        *for volume module on bar**
 + **python-psutil**     *for cpu module on bar**
-+ **erd-fonts**    *for icons
++ **erd-fonts**    *for icons*
 + **conky**        *for system monitor*
 + **nitrogen**     *for wallpapers*
   
