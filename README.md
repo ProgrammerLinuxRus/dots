@@ -12,11 +12,11 @@ and wanted to do something similar but in my own way.
 
 ## Dependencies 
 
-+ alsa-utils
-+ python-psutil
-+ nerd-fonts
-+ conky
-+ nitrogen *for wallpapers*
++ **alsa-utils**        *for volume module on bar**
++ **python-psutil**     *for cpu module on bar**
++ **erd-fonts**    *for icons
++ **conky**        *for system monitor*
++ **nitrogen**     *for wallpapers*
   
 To install on arch linux run the following commands:
 
