@@ -22,15 +22,18 @@ and wanted to do something similar but in my own way.
 + **nitrogen**     *for wallpapers*
 + **picom**  *just a compositor*
 + **alacritty** *treminal*
++ **dmenu** *apps runner*
++ **pacman-contrib** *for pacman module on bar*
   
 To install on arch linux run the following commands:
 
 ~~~
-sudo pacman -S alsa-utils python-psutil conky nitrogen picom alacritty
+sudo pacman -S alsa-utils python-psutil conky nitrogen picom alacritty pacman-contrib
 ~~~
 and
 ~~~bash
 yay -S nerd-fonts #or use another AUR helper
 ~~~
+### Installing Dmenu
 
 
