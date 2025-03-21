@@ -16,6 +16,8 @@ and wanted to do something similar but in my own way.
 + python-psutil
 + nerd-fonts
 + conky
++ nitrogen *for wallpapers*
+  
 To install on arch linux run the following commands:
 
 ~~~
