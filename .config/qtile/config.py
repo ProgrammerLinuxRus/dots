@@ -251,7 +251,7 @@ screens = [
             [
                 widget.Spacer(length=4),
                 widget.Image(
-                    filename = "~/arch.svg",
+                    filename = "~/.config/qtile/arch.svg",
                     scale = "False",
                     margin_x = 2,
                     margin_y = 2
