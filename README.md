@@ -35,5 +35,13 @@ and
 yay -S nerd-fonts #or use another AUR helper
 ~~~
 ### Installing Dmenu
+To install follow the [link](https://tools.suckless.org/dmenu/) and download the dmenu archive. Unpack it.
 
+After that run the following commands:
 
+~~~bash
+cd /path/to/unpacked/directory/
+~~~
+~~~bash
+sudo make install
+~~~
