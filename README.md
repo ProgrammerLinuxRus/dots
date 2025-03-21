@@ -22,7 +22,7 @@ To install on arch linux run the following commands:
 sudo pacman -S alsa-utils python-psutil conky
 ~~~
 ~~~
-yay -S nerd-fonts
+yay -S nerd-fonts ;;or use another AUR helper
 ~~~
 
 
