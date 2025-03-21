@@ -45,3 +45,6 @@ cd /path/to/unpacked/directory/
 ~~~bash
 sudo make install
 ~~~
+
+**PATCHING**
+Now you need to add some patches, download [xyz](https://tools.suckless.org/dmenu/patches/xyw/) and [line height](https://tools.suckless.org/dmenu/patches/line-height/) patches into dmenu directory and install it.
