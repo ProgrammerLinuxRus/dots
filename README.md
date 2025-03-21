@@ -6,7 +6,7 @@ first of all I would like to say that I was inspired by the DistroTube channel,
 and wanted to do something similar but in my own way.
 ## Preview
 
-![](
+![](https://github.com/ProgrammerLinuxRus/dots/blob/main/screen09.jpg)
 
 ## Installation
 
