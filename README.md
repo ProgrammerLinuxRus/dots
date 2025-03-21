@@ -12,8 +12,8 @@ and wanted to do something similar but in my own way.
 
 ## Dependencies 
 
-+ **alsa-utils**        *for volume module on bar**
-+ **python-psutil**     *for cpu module on bar**
++ **alsa-utils**        *for volume module on bar*
++ **python-psutil**     *for cpu module on bar*
 + **erd-fonts**    *for icons*
 + **conky**        *for system monitor*
 + **nitrogen**     *for wallpapers*
@@ -23,6 +23,7 @@ To install on arch linux run the following commands:
 ~~~
 sudo pacman -S alsa-utils python-psutil conky
 ~~~
+and
 ~~~bash
 yay -S nerd-fonts #or use another AUR helper
 ~~~
