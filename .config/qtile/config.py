@@ -89,7 +89,7 @@ keys = [
     Key([mod, "control"], "r", lazy.reload_config(), desc="Reload the config"),
     Key([mod, "control"], "q", lazy.shutdown(), desc="Shutdown Qtile"),
     Key([mod], "r", lazy.spawncmd(), desc="Spawn a command using a prompt widget"),
-    Key([mod], "space", lazy.spawn('dmenu_run -z 1000 -l 15 -nb "#292c35" -p "Run:" -sb "#c179d4" -sf "#292c35"')),
+    Key([mod], "space", lazy.spawn('dmenu_run')),
     Key([mod], "e", lazy.spawn('pcmanfm')),
     Key([mod],"Print",lazy.spawn('screengrab')),
     Key([mod],"p", lazy.spawn(power)),
