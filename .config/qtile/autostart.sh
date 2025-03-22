@@ -2,4 +2,4 @@
 
 picom &
 nitrogen --restore &
-conky &
+#conky &
